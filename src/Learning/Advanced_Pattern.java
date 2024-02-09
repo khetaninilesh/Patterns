@@ -57,6 +57,8 @@ public class Advanced_Pattern {
             }
             System.out.println();
         }
+
+
 //        Lower Half
         for (int i = raw; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
