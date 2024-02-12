@@ -75,6 +75,7 @@ public class Demo_Pattern {
             }
             System.out.println();
         }*/
+
 //        To Print pyramid of number (1 2 3, 1 2, 1)
         /*for (int i = 1; i <= raw; i++) {
             for (int j = 1; j <= raw-i+1; j++) {
