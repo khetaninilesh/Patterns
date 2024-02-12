@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Demo_Pattern {
     public static void main(String[] args) {
-        Scanner abc = new Scanner(System.in);
+        Scanner abc;
+        abc = new Scanner(System.in);
         int raw;
 //        int colu;
         System.out.println("Enter Raw ");
