@@ -6,11 +6,11 @@ public class Demo_Pattern {
     public static void main(String[] args) {
         Scanner abc = new Scanner(System.in);
         int raw;
-        int colu;
+//        int colu;
         System.out.println("Enter Raw ");
         raw = abc.nextInt();
         System.out.println("Enter Column");
-        colu = abc.nextInt();
+//        colu = abc.nextInt();
 //        Get raw and column value from keyboard and print * in box
         /*int raw, colu;
         System.out.println("Enter Raw ");
